@@ -1,6 +1,7 @@
 {
   "name": "keeper-part-3-starting",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
